@@ -1,0 +1,30 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <sort-values>true</sort-values>
+      <option name="valueLookupDelay" value="300" />
+    </data-views>
+    <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+    </general>
+    <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="enableExternalSourceDebug" value="false" />
+          <option name="smartStepIntoShowAlreadyExecutedTargets" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="python">
+        <configuration>
+          <option name="librariesFilterEnabled" value="true" />
+          <option name="steppingFiltersEnabled" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="Rust">
+        <configuration>
+          <option name="skipStdlibInStepping" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>
