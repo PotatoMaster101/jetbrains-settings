@@ -1,0 +1,8 @@
+<application>
+  <component name="SemanticSearchSettings">
+    <option name="classes_tab_manually_set" value="true" />
+    <option name="manual_enabled_in_classes_tab" value="true" />
+    <option name="manual_enabled_in_symbols_tab" value="true" />
+    <option name="symbols_tab_manually_set" value="true" />
+  </component>
+</application>
