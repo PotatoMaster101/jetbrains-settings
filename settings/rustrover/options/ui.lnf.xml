@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="SHOW_PREVIEW_IN_SEARCH_EVERYWHERE" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+  </component>
+</application>
